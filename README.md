@@ -16,4 +16,5 @@ För att ändra värdet från "Hello" behöver man navigera sig till strings.xml
 Koden där texten Williams App skrivs ut
 
 ![img_1.png](img_1.png)
+
 Bild på layouten 
